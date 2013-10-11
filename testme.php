@@ -1,3 +1,3 @@
 <?php
-  echo "Test is only a test";
+  echo "Test is only a test. And thank You.";
 ?>
